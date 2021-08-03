@@ -1,4 +1,4 @@
-# weather-website
+# Weather Website
 A simple weather search tool which returns a basic weather description, temperature and time in response to a location
 
 # What I learned?
